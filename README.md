@@ -1,7 +1,7 @@
 # Tela Inicial
 ![Inicial](https://user-images.githubusercontent.com/40778725/171041997-3dca73bb-cb06-400c-a103-e4ad916aeb5f.png)
 
-# Quiz
+# Float Menu
 Aplicação tem como base criar um menu flutuante onde pode ser adaptado em qualquer local da tela para melhor aproveitamento do espaço.
 
 Antes de iniciar a clonagem do projeto é necessário ter instalado em sua máquina as seguintes ferramentas.
